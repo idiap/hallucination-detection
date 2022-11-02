@@ -1,3 +1,0 @@
-# hallucination-detection
-
-Coming soon...
