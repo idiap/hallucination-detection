@@ -69,7 +69,7 @@ python plot_results.py
 ```
 
 ## Results
-We've uploaded our model predictions and results for BART-GBP and the baselines [here](#).
+We've uploaded our model predictions and results for BART-GBP and the baselines [here](https://drive.google.com/file/d/1FN8GqXAInAsJhJH5tbdi1ygOHN5GBBMv/view?usp=sharing).
 
 ## Contact
 In case of problems or questions open a Github issue or write an email to andreas.marfurt [at] idiap.ch.
